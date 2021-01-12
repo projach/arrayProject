@@ -59,8 +59,7 @@ void sumMethod(int A[n][m]){
 }
 //a method to calculate the average of some numbers
 double averageCalculation(double num,int num2){
-	num = num / num2;
-	return num;
+	return  num / num2;
 }
 //using the above method i calculate and print the average of every line
 //when for(i..) prompts sum is 0 so to calculate only 1 line at a time
